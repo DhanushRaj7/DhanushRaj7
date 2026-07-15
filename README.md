@@ -63,5 +63,6 @@ Currently building **[ai-job-copilot](https://github.com/DhanushRaj7/ai-job-copi
 ### Reach me
 
 - **Email** — [dhraj777@gmail.com](mailto:dhraj777@gmail.com)
+- **LinkedIn** — [linkedin.com/in/dhanush-raj-56414a284](https://www.linkedin.com/in/dhanush-raj-56414a284/)
 
 <sub>Open to early-career AI/ML engineering roles. The fastest way to reach me is email.</sub>
