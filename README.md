@@ -4,13 +4,13 @@
 
 I design and ship software end-to-end and I'm focused on the applied side of machine learning: turning models and LLMs into systems that actually run. I care about clean architecture, reproducibility, and shipping things that work rather than demos that don't.
 
-Currently building **[ai-job-copilot](https://github.com/DhanushRaj7/ai-job-copilot)** — an agentic career copilot built on LangGraph — and deepening my foundations in ML systems, evaluation, and production engineering.
+Recently shipped **[ai-job-copilot](https://github.com/DhanushRaj7/ai-job-copilot)** — an agentic career copilot built on LangGraph, now live at **[ai-job-copilot-31.streamlit.app](https://ai-job-copilot-31.streamlit.app/)** — and deepening my foundations in ML systems, evaluation, and production engineering.
 
 ---
 
 ### What I'm working on
 
-- **Building** — `ai-job-copilot`, an LLM agent (LangGraph + Groq/Llama-3.3) that plans and runs job search, skill-gap analysis, learning roadmaps, and interview prep.
+- **Shipped** — `ai-job-copilot` ([live demo](https://ai-job-copilot-31.streamlit.app/)), an LLM agent (LangGraph + Groq/Llama-3.3) that pulls live jobs (Adzuna API) and runs skill-gap analysis, learning roadmaps, and interview prep.
 - **Learning** — agent architectures, retrieval, evaluation/observability for LLM apps, and MLOps fundamentals.
 - **Open to** — early-career / new-grad **AI · ML · Applied-AI Engineer** roles and internships.
 
@@ -20,7 +20,7 @@ Currently building **[ai-job-copilot](https://github.com/DhanushRaj7/ai-job-copi
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| **[ai-job-copilot](https://github.com/DhanushRaj7/ai-job-copilot)** | An LLM career copilot: a LangGraph planner routes a career goal to job search, skill-gap analysis, learning-roadmap generation, and interview prep. | `Python` · `LangGraph` · `LangChain` · `Groq` | 🚧 Active development |
+| **[ai-job-copilot](https://github.com/DhanushRaj7/ai-job-copilot)** | An LLM career copilot: a LangGraph planner pulls live jobs (Adzuna API) and routes a career goal to skill-gap analysis, learning-roadmap generation, and interview prep. | `Python` · `LangGraph` · `Groq` · `Streamlit` | ✅ **[Live](https://ai-job-copilot-31.streamlit.app/)** |
 | **[E-Voting on Blockchain](https://github.com/DhanushRaj7/E-voting-system-using-blockchain-technology)** | A full-stack decentralized voting dApp — immutable, auditable votes via Ethereum smart contracts with wallet-based voting. | `TypeScript` · `Next.js` · `Solidity` · `Hardhat` | ✅ Complete |
 | **[Airline Passenger Forecasting](https://github.com/DhanushRaj7/Airline-Passenger-Forecasting-using-ARIMA-Model)** | An end-to-end time-series pipeline: ARIMA with AIC model selection, honest hold-out evaluation (MAPE 9.3%), and reproducible forecasts. | `Python` · `statsmodels` · `pandas` | ✅ Complete |
 
