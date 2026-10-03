@@ -2,6 +2,8 @@
 
 **Early-career AI/ML Engineer — building LLM agents and applied ML systems.**
 
+🌐 **Portfolio:** [Visit my Portfolio](https://dhanush-portfolio-eight.vercel.app)
+
 I design and ship software end-to-end and I'm focused on the applied side of machine learning: turning models and LLMs into systems that actually run. I care about clean architecture, reproducibility, and shipping things that work rather than demos that don't.
 
 Recently shipped **[ai-job-copilot](https://github.com/DhanushRaj7/ai-job-copilot)** — an agentic career copilot built on LangGraph, now live at **[ai-job-copilot-31.streamlit.app](https://ai-job-copilot-31.streamlit.app/)** — and deepening my foundations in ML systems, evaluation, and production engineering.
